@@ -10,3 +10,6 @@ python madlib.py
 
 ## Tests
 All methods have tests
+
+## Solution
+click [here](./madlib_cli/madlib.py)
